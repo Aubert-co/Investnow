@@ -1,0 +1,2585 @@
+{
+  "model": {
+    "name": "font",
+    "alias": "font_rdeh385v9lco",
+    "gain": 0.3795560189966063,
+    "sampleSize": 156,
+    "type": "feature",
+    "vals": [
+      {
+        "name": 0,
+        "alias": "0_r0dorgfkfj18",
+        "type": "feature_value",
+        "prob": 0.2564102564102564,
+        "sampleSize": 40,
+        "child": {
+          "name": "age",
+          "alias": "age_r3vt4drijvl8",
+          "gain": 0.7195041841804206,
+          "sampleSize": 40,
+          "type": "feature",
+          "vals": [
+            {
+              "name": 0.18,
+              "alias": "0.18_r4f66svkf7n8",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rrnjvngt3ja",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r5uh638oj2po",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r8u23mqs3m1"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rfgk0ga0spn",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rpg9r7rrv7b"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.2,
+              "alias": "0.2_rhc4h8tj5tso",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rmljs3p7qheg"
+              }
+            },
+            {
+              "name": 0.21,
+              "alias": "0.21_rar1i5karq2o",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r7562fdehda",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rclb005diclo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rvqni6hbaang"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rn87fcgvf66g",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rifqcbblacmg"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.26,
+              "alias": "0.26_rfs2dhbftvso",
+              "type": "feature_value",
+              "prob": 0.075,
+              "sampleSize": 3,
+              "child": {
+                "name": "education",
+                "alias": "education_rsuem85mq3rg",
+                "gain": 1.584962500721156,
+                "sampleSize": 3,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r1hi5uafrbv",
+                    "type": "feature_value",
+                    "prob": 0.3333333333333333,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r409db5un6qg"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rosn13llh3ao",
+                    "type": "feature_value",
+                    "prob": 0.3333333333333333,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rqmk9gp98bs8"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r51kk0tevg5g",
+                    "type": "feature_value",
+                    "prob": 0.3333333333333333,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rbm21ug4bedo"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.27,
+              "alias": "0.27_rfokik5s8ju",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r69s508tat5o",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rvdoeiri3dbo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rlrcjpjt3o9o"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_ro1t9mat6p3g",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rg9r6fmdbtqo"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.31,
+              "alias": "0.31_rrqc3ee99qn8",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rkj54rs28cqg",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rm4q6b5mc8io",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r5a2h4vnmc68"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rlfdo8o6lfio",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rmmi4sqfl67g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.34,
+              "alias": "0.34_rag1mp57pac8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rvs100faakg"
+              }
+            },
+            {
+              "name": 0.39,
+              "alias": "0.39_r7a1ge8o4fhg",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r9m1hq404u6"
+              }
+            },
+            {
+              "name": 0.43,
+              "alias": "0.43_r0bpapqv53a8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r2sn2dc5vc7g"
+              }
+            },
+            {
+              "name": 0.44,
+              "alias": "0.44_rs3a9bqgg5ao",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rpma9gt6sk78",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_r82lgtmum5eg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rut2vpt7kb6g"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rnuldc448vvg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rcl7igmq09n"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.52,
+              "alias": "0.52_r9gdeebfut08",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r4fgic5b9veo"
+              }
+            },
+            {
+              "name": 0.54,
+              "alias": "0.54_r64kehfd67jg",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "risc",
+                "alias": "risc_rk3i0ip2rjl",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_r2h1vq2oul0o",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r2ja4ag77qro"
+                    }
+                  },
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r8rkot37sdk8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r944vsdj877g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.55,
+              "alias": "0.55_rcclb9mclgs",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rvn52vbuis28"
+              }
+            },
+            {
+              "name": 0.61,
+              "alias": "0.61_rmtaiokrbu38",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r1q5qp2192gg"
+              }
+            },
+            {
+              "name": 0.65,
+              "alias": "0.65_rkkkdcefc2g8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r8fsqfk5l24o"
+              }
+            },
+            {
+              "name": 0.69,
+              "alias": "0.69_rnhl11dbm4h",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rfj916e5n9f"
+              }
+            },
+            {
+              "name": 0.72,
+              "alias": "0.72_rar68mnvnc18",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_ree35dcphmu8"
+              }
+            },
+            {
+              "name": 0.74,
+              "alias": "0.74_rns3rmd4qt3",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r97c2i2lj8n"
+              }
+            },
+            {
+              "name": 0.75,
+              "alias": "0.75_ruchak2vqgq8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_ruberl42ep6g"
+              }
+            },
+            {
+              "name": 0.77,
+              "alias": "0.77_rb6jldc5ghn8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rc2ph75sjago"
+              }
+            },
+            {
+              "name": 0.8,
+              "alias": "0.8_r0iqrkuq3ou8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r1frttnv2h9g"
+              }
+            },
+            {
+              "name": 0.81,
+              "alias": "0.81_rucqbvu7dn7o",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r2ib8rm5b45"
+              }
+            },
+            {
+              "name": 0.85,
+              "alias": "0.85_rcr1a20m1o7g",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rgqqgnqe27g",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_reltbiagqouo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r7g1mv7sp95"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_ro8j5i5lvaog",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r02vmfv9kbig"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.89,
+              "alias": "0.89_r5j99vn4ng3o",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r8l5t9kicem8"
+              }
+            },
+            {
+              "name": 0.22,
+              "alias": "0.22_ru4homcblt7",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rha040veghcg"
+              }
+            },
+            {
+              "name": 0.37,
+              "alias": "0.37_rcoq60epf5k",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rpuicghh17i"
+              }
+            },
+            {
+              "name": 0.4,
+              "alias": "0.4_rrp38prtcs38",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r3bl2g5ggp3o"
+              }
+            },
+            {
+              "name": 0.49,
+              "alias": "0.49_r6n77rom5eq8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r5lm0g14gij8"
+              }
+            },
+            {
+              "name": 0.57,
+              "alias": "0.57_rabn2d54onp8",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rk2k93fil07o"
+              }
+            },
+            {
+              "name": 0.7,
+              "alias": "0.7_r438cn99c1c",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rf8n4rt5cluo"
+              }
+            },
+            {
+              "name": 0.88,
+              "alias": "0.88_r77nfphh0lvg",
+              "type": "feature_value",
+              "prob": 0.025,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rc373ghgta4o"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": 0.01,
+        "alias": "0.01_rc1ed4snoejo",
+        "type": "feature_value",
+        "prob": 0.1282051282051282,
+        "sampleSize": 20,
+        "child": {
+          "name": "age",
+          "alias": "age_rqm5fnahg4e8",
+          "gain": 0.7112781244591329,
+          "sampleSize": 20,
+          "type": "feature",
+          "vals": [
+            {
+              "name": 0.22,
+              "alias": "0.22_rgj5gcohqtb",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rvh8s6mh05gg"
+              }
+            },
+            {
+              "name": 0.29,
+              "alias": "0.29_r3nn31in9ic",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rhrn8hnl22sg"
+              }
+            },
+            {
+              "name": 0.37,
+              "alias": "0.37_r7sa0um19vn8",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rortfdrg0aco"
+              }
+            },
+            {
+              "name": 0.38,
+              "alias": "0.38_rhs8h1rfv5co",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rikb2jefrqr8"
+              }
+            },
+            {
+              "name": 0.45,
+              "alias": "0.45_rjccl60hsprg",
+              "type": "feature_value",
+              "prob": 0.1,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rlbg7qieu06g",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_ro9qfjporjro",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rp0gtagbapcg"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r5d99cggffvo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rtq59c6vj958"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.5,
+              "alias": "0.5_rgkrch0etag8",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rl7uub1433n"
+              }
+            },
+            {
+              "name": 0.53,
+              "alias": "0.53_ru5u33ere2ng",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r0dbmldtd4ng"
+              }
+            },
+            {
+              "name": 0.57,
+              "alias": "0.57_rcvr12atqcpg",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rqobhupbcllg"
+              }
+            },
+            {
+              "name": 0.58,
+              "alias": "0.58_rnh6j46qop4g",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rs3ct6587ir8"
+              }
+            },
+            {
+              "name": 0.64,
+              "alias": "0.64_rlrbkbp472ko",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rleaivipn7gg"
+              }
+            },
+            {
+              "name": 0.7,
+              "alias": "0.7_rc2731isom38",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r2v19vedjp98"
+              }
+            },
+            {
+              "name": 0.76,
+              "alias": "0.76_reua4s0dhmmg",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r726gu13e1"
+              }
+            },
+            {
+              "name": 0.79,
+              "alias": "0.79_racol07a8v58",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r5jskp3ka9io"
+              }
+            },
+            {
+              "name": 0.84,
+              "alias": "0.84_rtk5cu9c5r2o",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rmbsilpglic8"
+              }
+            },
+            {
+              "name": 0.88,
+              "alias": "0.88_rp3r8ubgah9o",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r21qbll7m8h8"
+              }
+            },
+            {
+              "name": 0.2,
+              "alias": "0.2_rrdgcc1u57to",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r53m6fhvgvl8"
+              }
+            },
+            {
+              "name": 0.39,
+              "alias": "0.39_rhmbbdv1krng",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rh1haomhgbvo"
+              }
+            },
+            {
+              "name": 0.46,
+              "alias": "0.46_rnafd6vmlio",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rpq5obu7fos8"
+              }
+            },
+            {
+              "name": 0.75,
+              "alias": "0.75_rqvu9mhujtvo",
+              "type": "feature_value",
+              "prob": 0.05,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rkre1ivqm2q8"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": 0.03,
+        "alias": "0.03_rq3imagsbnu",
+        "type": "feature_value",
+        "prob": 0.33974358974358976,
+        "sampleSize": 53,
+        "child": {
+          "name": "age",
+          "alias": "age_rcqojk88gv9g",
+          "gain": 0.7012570053609688,
+          "sampleSize": 53,
+          "type": "feature",
+          "vals": [
+            {
+              "name": 0.3,
+              "alias": "0.3_rc6h1bbvc4fo",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rqvgsb8f5qdo",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r0vcgqopl1jo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rciepiqaaedg"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rte9oa4de85",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r29k06emcm7o"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.46,
+              "alias": "0.46_rph27cqrv35o",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r6ho5rl5oht"
+              }
+            },
+            {
+              "name": 0.6,
+              "alias": "0.6_rcetrqdovqko",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r86bhcb5pn9g",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r5c0ug4iqkg8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r48hqd4barf8"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rpoukf3hu3cg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r99p9ej6o038"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.68,
+              "alias": "0.68_rg3bb029i8no",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rcrpbmm5dub8"
+              }
+            },
+            {
+              "name": 0.82,
+              "alias": "0.82_rumne49ol6jo",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rqk6l9352h3"
+              }
+            },
+            {
+              "name": 0.36,
+              "alias": "0.36_rsmp632h3hq",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "risc",
+                "alias": "risc_r0ntrkqk95o8",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_r4ennr1udli",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rolpcjhic788"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_riv8p5ogolfo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r5lh1pvs2rl8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.38,
+              "alias": "0.38_rjpl3gidjqo",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rrdsvlk731u"
+              }
+            },
+            {
+              "name": 0.5,
+              "alias": "0.5_rak1nk8116g",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r7muo6pseh5o",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rfl3ucaviapo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rmkklrqt666"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r94kj20kfrmo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_ru9mvo76rrn"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.52,
+              "alias": "0.52_r6m5cu7csnso",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_r0kccf1fv5ro",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rarbb9j4990o",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rhh453foc2o"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rn366lh55omo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r1m4g0sgq8b"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.73,
+              "alias": "0.73_rho69ctkj9j",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r5027mlo3b5g",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rij330pct3i8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rl4vuoavruao"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_r46nqse5cr5",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rrfij59nad7g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.76,
+              "alias": "0.76_rgnu3pvrdnbg",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_rclm94tnbco",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rgnil9inb2gg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_ra5bbmi2v668"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rot3og5t5sl8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rou73l8pugm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.77,
+              "alias": "0.77_rrcb3rdtv3qg",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_re465hmp8kdg",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rq5jjltnq2k8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r0hngai08dr"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_riedsd3974tg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rt8kp5utq6n"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.79,
+              "alias": "0.79_r2eb3dl28ni",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "risc",
+                "alias": "risc_r453ifcfhvq",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_rcjcspb0hh58",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rtbgninnvc4g"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rt8hhpi1nrgo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_ro00in0c6ji8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.84,
+              "alias": "0.84_rj8drqo3j7o8",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_rhr66vaddl3",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r5ce7svsn9no",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r1k0v6kd3c3"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_r703fsf1mo0o",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r317i0mkgdto"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.87,
+              "alias": "0.87_rbs06pvkj8lo",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r1gm355m6nc",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rmhlb3jkdhhg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r23d4ek9p6"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_rq0qk5q8bph8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rejugqq14q4g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.89,
+              "alias": "0.89_rq4k4pqu0k8g",
+              "type": "feature_value",
+              "prob": 0.03773584905660377,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rk4sf82erpqg",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r62o9h0a062",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rkqilgriqv18"
+                    }
+                  },
+                  {
+                    "name": 0,
+                    "alias": "0_r9r8jfcc9f3o",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rhifk1iemmpo"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.18,
+              "alias": "0.18_rrungceu242",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rjdot7443f68"
+              }
+            },
+            {
+              "name": 0.22,
+              "alias": "0.22_rik1lj8trbi",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rk88rum66cjg"
+              }
+            },
+            {
+              "name": 0.29,
+              "alias": "0.29_r4hoc09m4fbo",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rq88jla701n8"
+              }
+            },
+            {
+              "name": 0.37,
+              "alias": "0.37_r3h8rvl30fio",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r7bh7nqa56dg"
+              }
+            },
+            {
+              "name": 0.4,
+              "alias": "0.4_rim06apj7cg8",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rosrqhk5boe8"
+              }
+            },
+            {
+              "name": 0.43,
+              "alias": "0.43_rph7baffikf",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r4huacngbfho"
+              }
+            },
+            {
+              "name": 0.44,
+              "alias": "0.44_rk1ro144bpv",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_reqsrbpb5k8"
+              }
+            },
+            {
+              "name": 0.54,
+              "alias": "0.54_r212lr38m0s",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r6jead920vdg"
+              }
+            },
+            {
+              "name": 0.55,
+              "alias": "0.55_ru8g1jbbjs6",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rnapc1u4s75g"
+              }
+            },
+            {
+              "name": 0.57,
+              "alias": "0.57_rkbm0bl7tu7",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rhn0ieapvrg"
+              }
+            },
+            {
+              "name": 0.58,
+              "alias": "0.58_rpqp5bgpuo48",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rl874vknq75g"
+              }
+            },
+            {
+              "name": 0.61,
+              "alias": "0.61_r3mig9shib4g",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rqts3pgd6b1g"
+              }
+            },
+            {
+              "name": 0.64,
+              "alias": "0.64_rvhag0r8gn8",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_riav3isp643g"
+              }
+            },
+            {
+              "name": 0.65,
+              "alias": "0.65_rghh9fl8j6co",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r8ra4980hoa8"
+              }
+            },
+            {
+              "name": 0.66,
+              "alias": "0.66_r0cncr0pgvto",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rruh5md5hs78"
+              }
+            },
+            {
+              "name": 0.67,
+              "alias": "0.67_rckc0qsp9tdg",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rn1muu3d46h"
+              }
+            },
+            {
+              "name": 0.69,
+              "alias": "0.69_raldc4tocorg",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r2fikfvd4708"
+              }
+            },
+            {
+              "name": 0.7,
+              "alias": "0.7_rrkv4ado3ov",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rl5krdjr5kqo"
+              }
+            },
+            {
+              "name": 0.74,
+              "alias": "0.74_rge6f3rtme0g",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rvb07n82aaeg"
+              }
+            },
+            {
+              "name": 0.75,
+              "alias": "0.75_rl1rtr8jmqrg",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r3phul6d8pf8"
+              }
+            },
+            {
+              "name": 0.8,
+              "alias": "0.8_rgkvd4pilfig",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rr4feh1477fg"
+              }
+            },
+            {
+              "name": 0.81,
+              "alias": "0.81_ruu0lmlq2jsg",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rop6nbkd5kbg"
+              }
+            },
+            {
+              "name": 0.83,
+              "alias": "0.83_r317l4ko6p",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rm9t3dm7gvio"
+              }
+            },
+            {
+              "name": 0.85,
+              "alias": "0.85_rh3404hfqcvo",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rvb0pr077d3"
+              }
+            },
+            {
+              "name": 0.88,
+              "alias": "0.88_rukdaq3h62vg",
+              "type": "feature_value",
+              "prob": 0.018867924528301886,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rf1oolrqlfdg"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": 0.02,
+        "alias": "0.02_rvk639o6eld8",
+        "type": "feature_value",
+        "prob": 0.27564102564102566,
+        "sampleSize": 43,
+        "child": {
+          "name": "age",
+          "alias": "age_r8kej3061j88",
+          "gain": 1.0492133141008249,
+          "sampleSize": 43,
+          "type": "feature",
+          "vals": [
+            {
+              "name": 0.36,
+              "alias": "0.36_re863j51qo78",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rg625ir9ain8"
+              }
+            },
+            {
+              "name": 0.4,
+              "alias": "0.4_r8hfnurtepjg",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_rom17g05if7o"
+              }
+            },
+            {
+              "name": 0.49,
+              "alias": "0.49_rghnrs2r5udo",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rt8sq6lt8hc8",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rptbr2gg36o8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r2h9koojqj7g"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_ragu8e7jg5to",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rsnfjeir1n0g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.66,
+              "alias": "0.66_rtuu25f5vih",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_ru80jrs64b88",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r9n57l87eqo8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rjnbrgh1p87"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rd8v2at273to",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rk8anlavp73g"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.67,
+              "alias": "0.67_r45pjvklg11g",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_rft1onu2b3po",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rbrn6k0dts98",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_r0080ogrrvbo"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_ridgcn6pt0l",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rfkcbjn6gdso"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.73,
+              "alias": "0.73_rper3sissep8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_r549imfrrtu8"
+              }
+            },
+            {
+              "name": 0.83,
+              "alias": "0.83_rmgp0db9eok",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r7d2vqj697j",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_rjnaqk9a45jg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.01,
+                      "name": 0.01,
+                      "alias": "0.01_rq6obhri1f78"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_raq8fkdfbjno",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_r8bjfn2sdumg"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.87,
+              "alias": "0.87_rpemsbftnjh8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.01,
+                "name": 0.01,
+                "alias": "0.01_ri5s1sc36p4g"
+              }
+            },
+            {
+              "name": 0.29,
+              "alias": "0.29_rlde6vooj69",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r3ftmcgtu2l8"
+              }
+            },
+            {
+              "name": 0.3,
+              "alias": "0.3_ragjl7i800ho",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r6oi2psvgfk"
+              }
+            },
+            {
+              "name": 0.31,
+              "alias": "0.31_r6b2bl8cft4g",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rceg05jk15n"
+              }
+            },
+            {
+              "name": 0.34,
+              "alias": "0.34_ri4ig70434q",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "education",
+                "alias": "education_r2a4hfg0orv8",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r48luugofemg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rd2tftc1g7j8"
+                    }
+                  },
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_rjn1qfbl54o8",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rdb2olv48a18"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.43,
+              "alias": "0.43_rut3jv17q5ag",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rg7l80e6guto"
+              }
+            },
+            {
+              "name": 0.53,
+              "alias": "0.53_r6i8oh13o328",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_r8rmhfppchf8",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0,
+                    "alias": "0_rdsvpsek6e3g",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_reo3phfta1cg"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rurc8bnu13uo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_r5udgmnk8lj8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.55,
+              "alias": "0.55_rp40p0844sg8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_ru2dvsb025h8"
+              }
+            },
+            {
+              "name": 0.58,
+              "alias": "0.58_r0n7pcu5bp4",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r8deaqr0hfsg"
+              }
+            },
+            {
+              "name": 0.6,
+              "alias": "0.6_rg7msb3ntne",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r7lbnbvucv3"
+              }
+            },
+            {
+              "name": 0.61,
+              "alias": "0.61_r8ffujvma1uo",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r4ehr1eim4v8"
+              }
+            },
+            {
+              "name": 0.64,
+              "alias": "0.64_rgfghfhpqvlg",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rabiefpac44o"
+              }
+            },
+            {
+              "name": 0.65,
+              "alias": "0.65_rcd5oep4s7ug",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r2fu98h57r08"
+              }
+            },
+            {
+              "name": 0.68,
+              "alias": "0.68_rhgshbu8sfk",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "risc",
+                "alias": "risc_r686a2msirp",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.01,
+                    "alias": "0.01_r7ou4600ja5g",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rbg6jh83rn78"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rd9sr444hu5o",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_ru596f3idtgo"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.69,
+              "alias": "0.69_r81ktfdk4js",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rvfpgd5chrh"
+              }
+            },
+            {
+              "name": 0.72,
+              "alias": "0.72_rfv97j24htao",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_rciemrgbok6g",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r24peo57rtf",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_rdnp84c5qe9g"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rv1lhm2amiqg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_ric77039f8u"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.74,
+              "alias": "0.74_r50i1p1k2ggg",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_rgv35cueopr8"
+              }
+            },
+            {
+              "name": 0.8,
+              "alias": "0.8_r2vuris1v92o",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r5v79evvac38"
+              }
+            },
+            {
+              "name": 0.81,
+              "alias": "0.81_rtovr7b0p0dg",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.02,
+                "name": 0.02,
+                "alias": "0.02_r0t68f3brgso"
+              }
+            },
+            {
+              "name": 0.82,
+              "alias": "0.82_rt48f8067d4o",
+              "type": "feature_value",
+              "prob": 0.046511627906976744,
+              "sampleSize": 2,
+              "child": {
+                "name": "loss",
+                "alias": "loss_rbv3gmopm3vo",
+                "gain": 1,
+                "sampleSize": 2,
+                "type": "feature",
+                "vals": [
+                  {
+                    "name": 0.02,
+                    "alias": "0.02_r8jbvjp00nfo",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.02,
+                      "name": 0.02,
+                      "alias": "0.02_roltlbf6nal"
+                    }
+                  },
+                  {
+                    "name": 0.03,
+                    "alias": "0.03_rqr75tbm5cgg",
+                    "type": "feature_value",
+                    "prob": 0.5,
+                    "sampleSize": 1,
+                    "child": {
+                      "type": "result",
+                      "val": 0.03,
+                      "name": 0.03,
+                      "alias": "0.03_rf8detkqvr18"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": 0.2,
+              "alias": "0.2_resa6fds10do",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rhabp23pi7ng"
+              }
+            },
+            {
+              "name": 0.21,
+              "alias": "0.21_r3k3j7g89eso",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rnsemkk8r0qg"
+              }
+            },
+            {
+              "name": 0.27,
+              "alias": "0.27_rc4l331j0e9g",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r1cibrah72bo"
+              }
+            },
+            {
+              "name": 0.38,
+              "alias": "0.38_r7c0198gtbc8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r3qml4n8joq8"
+              }
+            },
+            {
+              "name": 0.39,
+              "alias": "0.39_rmuvjm914ro8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rdism32qmn2g"
+              }
+            },
+            {
+              "name": 0.45,
+              "alias": "0.45_r3qsub2rvklo",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_r4spgtaj7ct8"
+              }
+            },
+            {
+              "name": 0.46,
+              "alias": "0.46_r333cogkoet8",
+              "type": "feature_value",
+              "prob": 0.023255813953488372,
+              "sampleSize": 1,
+              "child": {
+                "type": "result",
+                "val": 0.03,
+                "name": 0.03,
+                "alias": "0.03_rui6sj5ng54"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "target": "output",
+  "features": ["age", "education", "loss", "risc", "font"]
+}
